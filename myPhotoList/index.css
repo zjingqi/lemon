@@ -87,22 +87,24 @@ html,body{
 }
 
 .item:nth-of-type(1) .bg{
-    background-image: url('../photoList/images/cx1.jpg');
+   
+    background-image: url('./cx1.jpg');
+
 }
 .item:nth-of-type(2) .bg{
-    background-image: url('../photoList/images/hg.jpg');
+    background-image: url('./hg.jpg');
 }
 .item:nth-of-type(3) .bg{
-    background-image: url('../photoList/images/lh.jpg');
+    background-image: url('./lh.jpg');
 }
 .item:nth-of-type(4) .bg{
-    background-image: url('../photoList/images/lyf.jpg');
+    background-image: url('./lyf.jpg');
 }
 .item:nth-of-type(5) .bg{
-    background-image: url('../photoList/images/wyf.jpg');
+    background-image: url('./wyf.jpg');
 }
 .item:nth-of-type(6) .bg{
-    background-image: url('../photoList/images/yy.jpg');
+    background-image: url('./yy.jpg');
 }
 
 .item .title{
