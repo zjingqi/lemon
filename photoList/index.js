@@ -6,10 +6,9 @@ var timer = setTimeout(function(){
 $('.item').click(function(){
     $(this).addClass('active');
     $('.wrapper').addClass('wrapper-active');
-
-})
+}) 
 $('.close').click(function(e){
-    e.stopPropagation();
+    e.stopPropagation();/* 取消冒泡*/
     $('.wrapper').removeClass('wrapper-active');
     $('.active').removeClass('active');
 })
