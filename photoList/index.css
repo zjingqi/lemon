@@ -77,7 +77,7 @@ html,body{
     opacity: 0.7;
 }
 .item:nth-of-type(1) .bg{
-    background-image:url('./images/cx.jpg');
+    background-image:url('./images/cx1.jpg');
 }
 .item:nth-of-type(2) .bg{
     background-image:url('./images/hg.jpg');
